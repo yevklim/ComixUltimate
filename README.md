@@ -4,7 +4,7 @@
 
 App developed with C++ and Qt Framework 6.2
 
-For now the app in neither maintained nor finished.
+For now the app is neither maintained nor finished.
 
 # Features:
 - Beautiful iOS-like UI
