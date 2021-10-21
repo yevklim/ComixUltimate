@@ -15,7 +15,7 @@ ApplicationWindow {
     title: qsTr("ComixUltimate")
 
     property bool closing: false
-    property bool safeMode: true
+    property bool safeMode: false
 
     function resetPopup() { //CHECK FOR BUG
         if (popup_loader.sourceComponent != undefined) {
