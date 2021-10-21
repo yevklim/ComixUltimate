@@ -1,0 +1,91 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/Images/UI Elements/add-to-playlist_32.svg</file>
+        <file>ui/Images/UI Elements/add-to-playlist_48.svg</file>
+        <file>ui/Images/UI Elements/add-to-queue_32.svg</file>
+        <file>ui/Images/UI Elements/add_new_item_48.svg</file>
+        <file>ui/Images/UI Elements/close_32.svg</file>
+        <file>ui/Images/UI Elements/delete2_32.svg</file>
+        <file>ui/Images/UI Elements/delete_32.svg</file>
+        <file>ui/Images/UI Elements/download_32.svg</file>
+        <file>ui/Images/UI Elements/edit_32.svg</file>
+        <file>ui/Images/UI Elements/error1.svg</file>
+        <file>ui/Images/UI Elements/error_2.svg</file>
+        <file>ui/Images/UI Elements/favorite_32.svg</file>
+        <file>ui/Images/UI Elements/first_32.svg</file>
+        <file>ui/Images/UI Elements/gallery_view_mode_48.svg</file>
+        <file>ui/Images/UI Elements/history_48.svg</file>
+        <file>ui/Images/UI Elements/history_alt_48.svg</file>
+        <file>ui/Images/UI Elements/home_48.svg</file>
+        <file>ui/Images/UI Elements/last_32.svg</file>
+        <file>ui/Images/UI Elements/library_48.svg</file>
+        <file>ui/Images/UI Elements/list_view_mode_48.svg</file>
+        <file>ui/Images/UI Elements/menu_32.svg</file>
+        <file>ui/Images/UI Elements/menu_48.svg</file>
+        <file>ui/Images/UI Elements/next_32.svg</file>
+        <file>ui/Images/UI Elements/okay_32.svg</file>
+        <file>ui/Images/UI Elements/open_32.svg</file>
+        <file>ui/Images/UI Elements/open_48.svg</file>
+        <file>ui/Images/UI Elements/pause_32.svg</file>
+        <file>ui/Images/UI Elements/pause_48.svg</file>
+        <file>ui/Images/UI Elements/play_32.svg</file>
+        <file>ui/Images/UI Elements/play_48.svg</file>
+        <file>ui/Images/UI Elements/playlists_48.svg</file>
+        <file>ui/Images/UI Elements/pop-from-playlist_32.svg</file>
+        <file>ui/Images/UI Elements/pop-from-queue_32.svg</file>
+        <file>ui/Images/UI Elements/prev_32.svg</file>
+        <file>ui/Images/UI Elements/queue_48.svg</file>
+        <file>ui/Images/UI Elements/reset_24.svg</file>
+        <file>ui/Images/UI Elements/save_32.svg</file>
+        <file>ui/Images/UI Elements/save_48.svg</file>
+        <file>ui/Images/UI Elements/search_32.svg</file>
+        <file>ui/Images/UI Elements/search_48.svg</file>
+        <file>ui/Images/UI Elements/set_as_cover_48.svg</file>
+        <file>ui/Images/UI Elements/settings_48.svg</file>
+        <file>ui/Images/UI Elements/shuffled_library_48.svg</file>
+        <file>ui/Images/UI Elements/shuffled_library_alt_48.svg</file>
+        <file>ui/Images/UI Elements/source_32.svg</file>
+        <file>ui/Images/UI Elements/visibility_32.svg</file>
+        <file>ui/Images/UI Elements/visibility_48.svg</file>
+        <file>ui/Images/UI Elements/visibility_off_32.svg</file>
+        <file>ui/Images/UI Elements/visibility_off_48.svg</file>
+        <file>ui/Images/UI Elements/watch-later_32.svg</file>
+        <file>ui/MaterialIcons/MaterialIcons-Regular.js</file>
+        <file>ui/MaterialIcons/MaterialIcons-Regular.ttf</file>
+        <file>ui/AbstractBar.qml</file>
+        <file>ui/Bar.qml</file>
+        <file>ui/BarItemWrapper.qml</file>
+        <file>ui/BottomBar.qml</file>
+        <file>ui/CustomButton.qml</file>
+        <file>ui/CustomCheckBox.qml</file>
+        <file>ui/CustomComboBox.qml</file>
+        <file>ui/CustomPopup.qml</file>
+        <file>ui/CustomProgressBar.qml</file>
+        <file>ui/CustomSlider.qml</file>
+        <file>ui/CustomTextField.qml</file>
+        <file>ui/CustomTimer.qml</file>
+        <file>ui/CustomToggle.qml</file>
+        <file>ui/HBar.qml</file>
+        <file>ui/Icon.qml</file>
+        <file>ui/IconButton.qml</file>
+        <file>ui/IconButton2.qml</file>
+        <file>ui/icons.js</file>
+        <file>ui/ItemsLibrary.qml</file>
+        <file>ui/ItemViewer.qml</file>
+        <file>ui/ItemViewerItem.qml</file>
+        <file>ui/ItemVisible.qml</file>
+        <file>ui/LibraryItem.qml</file>
+        <file>ui/LittlePopup.qml</file>
+        <file>ui/LoadingSpinner.qml</file>
+        <file>ui/Main.qml</file>
+        <file>ui/Popups.qml</file>
+        <file>ui/qmldir</file>
+        <file>ui/QuteShape.qml</file>
+        <file>ui/SideBar.qml</file>
+        <file>ui/SuperellipseShape.qml</file>
+        <file>ui/TextInputButton.qml</file>
+        <file>ui/TopBar.qml</file>
+        <file>ui/TriangleShape.qml</file>
+        <file>ui/VBar.qml</file>
+    </qresource>
+</RCC>
