@@ -16,4 +16,4 @@ For now the app is neither maintained nor finished.
 - Queues and Playlists of content (not implemented)
 
 # Supported websites:
-- readcomicsonline.ru
+- [ReadComicsOnline.ru](https://readcomicsonline.ru)
